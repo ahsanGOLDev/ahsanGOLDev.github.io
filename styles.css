@@ -16,7 +16,7 @@ p {
     font-size: 22px;
 }
 
-input {
+input, textarea {
     border: 0;
     padding: 10px;
     font-size: 18px;
